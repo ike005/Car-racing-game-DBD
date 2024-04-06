@@ -158,7 +158,7 @@ class Instructions(simpleGE.Scene):
             
             
         if self.btnQuit.clicked:
-            self.response = "Quite"
+            self.response = "Quit"
             self.stop()
         
         
