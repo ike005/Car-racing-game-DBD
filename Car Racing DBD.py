@@ -3,6 +3,12 @@
 Created on Wed Mar 27 10:31:04 2024
 
 @author: bluet
+""" 
+    Coin sound: https://opengameart.org/content/plingy-coin
+    Car: https://opengameart.org/content/lap-rusher-assets
+    background: https://opengameart.org/content/2d-top-down-highway-background
+    Coin image: https://opengameart.org/content/coin-icon
+    Car Crash: https://opengameart.org/content/stop
 """
 import pygame, simpleGE, random
 class Game(simpleGE.Scene):
